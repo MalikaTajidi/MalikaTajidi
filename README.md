@@ -14,4 +14,4 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 ![Malika Tajidi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=MalikaTajidi&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MalikaTajidi&layout=compact&langs_count=8&title_color=fff&text_color=aaaaaa&bg_color=050505)](https://github.com/MalikaTajidi/github-readme-stats)
+
