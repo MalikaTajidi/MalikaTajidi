@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Malika Tajidi 👩🏻‍💻</h1>
 
-<h3 align="center">Software Engineering Student | Passionate about Cloud ☁️ and Data ✨ | Not your typical nerd :)</h3>
+<h3 align="center">Software Engineering Student | Passionate about Cloud ☁️ and Data ✨ </h3>
 
 <br>
 
