@@ -7,7 +7,6 @@
 <h3 align="left">👩🏻‍💻 About Me</h3>
 👾 I love exploring new technologies, designing software solutions, and finding innovative approaches.<br>
 🦾 I'm currently pursuing a degree in software engineering (information systems).<br>
-🏁 Fun fact: I'm a fan of Formula1.<br>
 
 <br>
 
