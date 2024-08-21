@@ -10,7 +10,12 @@
 
 <br>
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
+<p align="left">
+<a href="https://github.com/MalikaTajidi">
+  <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MalikaTajidi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=FFFFFF&custom_title=Malika%20Tajidi's%20GitHub%20Stats"/>
+  <img height="180em" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MalikaTajidi&layout=compact&langs_count=8&theme=dark&title_color=FFFFFF&custom_title=Malika%20Tajidi's%20Top%20Languages"/>
+</a>
+</p>
 
-![Malika Tajidi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api/?username=MalikaTajidi&show_icons=true&title_color=fff&icon_color=54EC87&text_color=aaaaaa&bg_color=050505)
-
+![](https://hit.yhype.me/github/profile?user_id=158828995)
