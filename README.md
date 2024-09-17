@@ -1,6 +1,5 @@
 <h1 align="center">Hi there! , I'm Malika Tajidi 👩🏻‍💻</h1>
 
-<h3 align="center">Software Engineering Student (information systems) </h3>
 
 <br>
 
