@@ -15,7 +15,7 @@ Aspiring Software Engineer with a strong foundation in Java and a passion for de
 I'm currently pursuing a degree in software engineering (information systems).
 
 <br />
-<br />
+
 
 <h1>Skills
   <a href="#-my-skill-sets--">
@@ -27,7 +27,7 @@ I'm currently pursuing a degree in software engineering (information systems).
 
 
 <br />
-<br />
+
 
 <h2 align="center" style="color:#3DA5D9;">💻 GitHub Stats</h2>
 <p align="center">
