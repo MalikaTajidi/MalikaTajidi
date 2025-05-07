@@ -17,7 +17,17 @@ I'm currently pursuing a degree in software engineering (information systems).
 <br />
 <br />
 
+<h1>Skills
+  <a href="#-my-skill-sets--">
+    <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width="32px">
+  </a>
+</h1>
 
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,python,c,cpp,cs,html,css,tailwind,express,dotnet,spring,postman,nodejs,react,angular,git,githubactions,jenkins,docker,aws,kubernetes,gcp,kafka,linux,postgres,redis,mysql,mongodb&theme=light)](https://skillicons.dev)
+
+
+<br />
+<br />
 
 <h2 align="center" style="color:#3DA5D9;">💻 GitHub Stats</h2>
 <p align="center">
