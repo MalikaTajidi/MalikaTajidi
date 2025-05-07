@@ -1,5 +1,5 @@
 <div align="center">
-<img style="max-width: 100%; height: auto;" alt="Developer Illustration" src="./src/Banner1.gif"/>
+<img style="max-width: 100%; height: auto;" alt="Developer Illustration" src="./src/Banner.gif"/>
 
 ## Hi There, Welcome to my GitHub profile! 👋🏻
 
