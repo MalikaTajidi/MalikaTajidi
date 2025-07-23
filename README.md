@@ -23,7 +23,7 @@ I'm currently pursuing a degree in software engineering (information systems).
   </a>
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,python,c,cpp,cs,html,css,tailwind,express,dotnet,spring,postman,nodejs,react,nextjs,angular,git,githubactions,docker,aws,kafka,linux,postgres,redis,mysql,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,javascript,python,c,cpp,cs,html,css,tailwind,mui,express,dotnet,spring,postman,nodejs,react,nextjs,angular,git,githubactions,docker,aws,kafka,linux,postgres,redis,mysql,mongodb&theme=light)](https://skillicons.dev)
 
 
 <br />
